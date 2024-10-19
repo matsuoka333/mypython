@@ -1,3 +1,4 @@
 a = 'aaa'
-print(a)
+b = 'bbb'
+print(a + b)
 

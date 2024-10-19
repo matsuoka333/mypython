@@ -1,4 +1,5 @@
 a = 'aaa'
 b = 'bbb'
-print(a + b)
+c = 'ccc'
+print(a + b + c)
 

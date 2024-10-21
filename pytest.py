@@ -8,4 +8,5 @@ print(b + c)
 print(c + a)
 print('merge')
 print('pull request')
+print('git stash')
 
